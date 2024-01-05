@@ -1,4 +1,4 @@
-# TextUtilityApp# TextUtils
+# TextUtils
 
 TextUtils is a simple React application that leverages React Router, Bootstrap, and React Hooks (specifically, useState) to provide a user-friendly interface for text manipulation.
 
@@ -8,7 +8,6 @@ TextUtils is a simple React application that leverages React Router, Bootstrap, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -32,8 +31,8 @@ TextUtils is a simple React application that leverages React Router, Bootstrap, 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute to the project:
 
-1.Fork the repository.
-2.Create a new branch for your feature or bug fix: git checkout -b feature-name.
-3.Make your changes and commit them: git commit -m 'Description of your changes'.
-4. Push your changes to the branch: git push origin feature-name.
-5.Create a pull request on GitHub.   
+1.Fork the repository.<br>
+2.Create a new branch for your feature or bug fix: git checkout -b feature-name.<br>
+3.Make your changes and commit them: git commit -m 'Description of your changes'.<br>
+4. Push your changes to the branch: git push origin feature-name.<br>
+5.Create a pull request on GitHub.   <br>
