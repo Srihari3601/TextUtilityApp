@@ -24,7 +24,7 @@ TextUtils is a simple React application that leverages React Router, Bootstrap, 
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/your-username/TextUtils.git
+   git clone https://github.com/Srihari3601/TextUtils.git
 
 2. Start with Live server VS code extension
 
